@@ -91,7 +91,7 @@ public abstract class Tarea implements ITareaAccion{
 	}
 	
 	/**
-	 * Método que permite obtener el tipo de Tarea creada
+	 * Método que permite obtener el tipo de Tarea creada.
 	 */
 	public abstract String getTipo();
 
